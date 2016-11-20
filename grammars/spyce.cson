@@ -1,6 +1,6 @@
 'scopeName': 'source.spyce'
 'name': 'SPYCE'
-'fileTypes': ['spy']
+'fileTypes': ['spy', 'spi']
 'firstLineMatch': '^#!/.*\\bpython[\\d\\.]*\\b'
 'patterns': [
   {
